@@ -5,7 +5,9 @@ Welcome to the Turtle Race Game! This interactive Python project lets you select
 Features
     Choose your turtle color from six different options.
     Watch the race unfold in real-time.z
+    
     Simple, fun, and engaging gameplay.
+    
     Getting Started
     Prerequisites
     Make sure you have Python installed on your machine. You will also need the turtle module, which is included with Python's standard library.
@@ -13,6 +15,7 @@ Features
 1. Installation
     Clone the repository:
       git clone https://github.com/yourusername/turtle-race-game.git
+
       cd turtle-race-game
    
 3. Run the game:
