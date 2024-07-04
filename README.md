@@ -1,9 +1,10 @@
 #Turtle Race Game
+
 Welcome to the Turtle Race Game! This interactive Python project lets you select a turtle and watch as they race to the finish line. If your chosen turtle wins, you win; otherwise, you lose.
 
 Features
     Choose your turtle color from six different options.
-    Watch the race unfold in real-time.
+    Watch the race unfold in real-time.z
     Simple, fun, and engaging gameplay.
     Getting Started
     Prerequisites
