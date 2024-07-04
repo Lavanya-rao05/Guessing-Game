@@ -9,9 +9,10 @@ Features
 1. Installation
     Clone the repository:
    
-      git clone https://github.com/yourusername/turtle-race-game.git
+          git clone https://github.com/Lavanya-rao05/Guessing-Game.git
 
-      cd turtle-race-game
+       cd Guessing-Game
+
    
 3. Run the game:
    
