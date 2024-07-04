@@ -9,13 +9,13 @@ Features
 1. Installation
     Clone the repository:
    
-          git clone https://github.com/Lavanya-rao05/Guessing-Game.git
+       git clone https://github.com/Lavanya-rao05/Guessing-Game.git
 
        cd Guessing-Game
 
    
 3. Run the game:
-   
+
       python turtle_race.py
   
 5. How to Play
